@@ -1,0 +1,8 @@
+
+1. 点击选中的文件夹 运行 git.bash
+2. 输入命令: git init (初始化git项目)
+3. 输入命令: git add .(添加项目内的所有的文件到git中)
+4. 输入命令: git status (查看添加的状态)
+5. 输入命令: git commit -m "fisrt commit" (提交代码到本地)
+6. 输入命令: git remote add origin  URL(仓库地址)  (连接远程仓库)
+7. 输入命令: git push -u origin master (提交代码)
